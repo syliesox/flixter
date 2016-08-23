@@ -1,0 +1,1 @@
+Flixter::Application.config.secret_key_base = '8ebb1eab31e3dce62c55df6f8a32693460e6020c2a3351943ca3056a72ddcc66990d303978cbbebd24634fe275f3ecf951fae1abd467f8c00530eed92d939c31'
