@@ -4,6 +4,7 @@ gem 'rails_12factor', group: :production
 gem 'bootstrap-sass', '> 3.3.6'
 gem 'sass-rails', '>= 3.2'
 gem 'devise'
+gem 'simple_form'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '>= 4.0.4'
